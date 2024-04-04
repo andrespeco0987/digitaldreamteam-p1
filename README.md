@@ -1,7 +1,7 @@
 # CODECRAFTERS
 
--Naomy
--Paola
--Kevin
--David
--Andres
+-  Naomy
+-  Paola
+-  Kevin
+-  David
+-  Andres
