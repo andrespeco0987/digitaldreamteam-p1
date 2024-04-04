@@ -1,4 +1,4 @@
-# codecrafters-p1
+# CODECRAFTERS
 
 -Naomy
 -Paola
