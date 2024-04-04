@@ -2,6 +2,6 @@
 
 - Naomy
 - Paola
-- Kevin
+- Kevin Hernandez
 - David
 - Andres
