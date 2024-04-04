@@ -1,10 +1,7 @@
 # DigitalDreamTeam
 
-- Naomy
-- Paola
-- Kevin
-- David
-- Andres
-
-- TEST by KEVIN
-- Linea escrita por paola
+-  Naomy
+-  Paola
+-  Kevin
+-  David
+-  Andres
