@@ -1,6 +1,6 @@
 # DigitalDreamTeam
 
-- Naomy
+- Naomy Restrepo
 - Paola
 - Kevin
 - David
