@@ -1,7 +1,7 @@
 # DigitalDreamTeam
 
 - Naomy
-- Paola
+- Paola chaves
 - Kevin
 - David
 - Andres
