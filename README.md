@@ -1,4 +1,4 @@
-# <DigitalDreamTeam/>
+# DigitalDreamTeam
 
 - Naomy
 - Paola
