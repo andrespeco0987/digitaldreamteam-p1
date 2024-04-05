@@ -8,6 +8,8 @@ En este proyecto se va a enfocar en una pagina web y su tema principal es recicl
 
 En esta pagina web se va a implementar Html, Css, Bootsrap y Javascript, asi como un preciso estudio sobre el tema principal y creavividad para mantener el enfoque de los usuarios en nuestra Web.
 
+Se va a comenzar a consolidar una Web estatica que con el tiempo y el trabajo conjunto del grupo se quiere llegar a una Web dinamica para que el usuario pueda interactuar en gran aspecto con nuestra Web.
+
 **Los autor de este proyecto son:**
 
 -  Naomy Restrepo
