@@ -1,4 +1,4 @@
-# DIGITALDREAM TEAM
+# DigitalDreamTeam
 
 ## **Primer Proyecto Grupal**
 
