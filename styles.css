@@ -1,0 +1,27 @@
+--root {}
+
+* {
+    font-family: "Oswald", sans-serif;
+}
+
+.main_bg {
+    height: 100%;
+    width: 100%;
+}
+
+.div_Container {
+    position: relative;
+}
+
+.main_textDiv {
+    position: absolute;
+    top: 45%;
+    /* left: 0; */
+    width: 100%;
+}
+
+.main_textP {
+    font-size: 110px;
+    color: #FFF;
+    font-weight: 400;
+}
