@@ -25,3 +25,8 @@
     color: #FFF;
     font-weight: 400;
 }
+
+.navbar .nav-link.active {
+    background-color: #A3E9A4;
+    border-radius: 5px;
+}
