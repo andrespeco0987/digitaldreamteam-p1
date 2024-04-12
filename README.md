@@ -4,6 +4,8 @@
 
 ### Tema Principal: Reciclaje
 
+
+
 En este proyecto se va a enfocar en una pagina web y su tema principal es reciclaje, contiene una intruduccion y el significado de este, asi como los tipos que existen, guias y consejos, noticias del mundo y eventos, recursos y aprendizaje sobre como reciclar correctamente, la pagina se va a conformar por un Header, un Nav, un Main, y un Footer.
 
 En esta pagina web se va a implementar Html, Css, Bootsrap y Javascript, asi como un preciso estudio sobre el tema principal y creavividad para mantener el enfoque de los usuarios en nuestra Web.
