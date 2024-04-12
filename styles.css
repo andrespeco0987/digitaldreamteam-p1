@@ -33,6 +33,37 @@ body {
     font-weight: 400;
 }
 
+.CopyFooter {
+    color: white;
+    text-align: center;
+}
+
+.Footer {
+    background-color: #333333;
+    color: white;
+
+}
+
+.FooterCopy {
+    background-color: #212121;
+
+}
+
+.FooterPalabras {
+    color: #73a34b;
+}
+
+.Footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Footer1 {
+    width: 25%;
+    text-align: center;
+}
+
 /* --------------- MEDIA --------------- */
 @media screen and (max-width: 767px) {
     .main_textP {
