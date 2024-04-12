@@ -1,0 +1,28 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.matchBrackets": "always",
+  "workbench.colorTheme": "Chrome DevTools Monokai",
+  "git.openRepositoryInParentFolders": "always",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "git.confirmSync": false,
+  "explorer.confirmDragAndDrop": false,
+  "prettier.bracketSameLine": true,
+  "prettier.endOfLine": "auto",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.hover.delay": 1500,
+  "css.hover.references": false,
+
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#232323"
+  },
+  "errorLens.editorHoverPartsEnabled": {
+    "messageEnabled": true
+  },
+  "html.hover.references": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "prettier.singleQuote": true
+}
