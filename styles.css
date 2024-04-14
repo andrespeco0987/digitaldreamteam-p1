@@ -1,7 +1,9 @@
-/* Kevin */
+/* --------------- KEVIN --------------- */
 :root {
 	--mainGreen: #9bbf5f;
 	--mainWhite: #fff;
+	--primary_Black: #000;
+	--primary_Gray: #565353;
 }
 
 * {
@@ -33,30 +35,23 @@
 	left: 0;
 	right: 0;
 	bottom: 0;
-	opacity: 0.4;
-	background-color: #000;
+	opacity: 0.5;
+	background-color: var(--primary_Black);
 	z-index: 1;
 }
 
-/* 
-.main_bg {
-	height: 100%;
-	width: 100%;
-}
-.main_textP {
+.video_section_h1 {
 	font-size: 110px;
-	color: #fff;
-	font-weight: 400;
-} */
+	text-shadow: var(--primary_Gray) 1px 1px 10px;
 
-/* --------------- MEDIA --------------- */
-@media screen and (max-width: 767px) {
-	.main_textP {
-		font-size: 40px;
-	}
 }
 
-/* David */
+.video_section_p {
+	font-size: 30px;
+}
+
+
+/* --------------- DAVID --------------- */
 .CopyFooter {
 	color: white;
 	text-align: center;
@@ -86,8 +81,7 @@
 	text-align: center;
 }
 
-/* Naomy */
-
+/* --------------- NAOMY --------------- */
 .div_Container {
 	position: relative;
 }
@@ -99,13 +93,22 @@
 	width: 100%;
 }
 
+/* --------------- MEDIA --------------- */
+
 @media screen and (max-width: 767px) {
+
+	/* --------------- KEVIN --------------- */
+	.video_section_h1 {
+		font-size: 70px;
+	}
+
+	/* --------------- DAVID --------------- */
 	.navbar .nav-link.active {
 		background-color: #a3e9a4;
 		border-radius: 5px;
 	}
 }
 
-/* Paola */
+/* --------------- PAOLA --------------- */
 
-/* Andres */
+/* --------------- ANDRES --------------- */
