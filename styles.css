@@ -1,72 +1,80 @@
+/* Kevin */
 :root {
-    --mainGreen: #9BBF5F;
-    --mainWhite: #FFF;
-}
-
-* {
-    font-family: "Oswald", sans-serif;
+	--mainGreen: #9bbf5f;
+	--mainWhite: #fff;
 }
 
 body {
-    background-color: var(--mainGreen);
+	background-color: var(--mainGreen);
 }
-
+* {
+	font-family: 'Oswald', sans-serif;
+}
 .main_bg {
-    height: 100%;
-    width: 100%;
+	height: 100%;
+	width: 100%;
 }
-
-.div_Container {
-    position: relative;
-}
-
-.main_textDiv {
-    position: absolute;
-    top: 45%;
-    /* left: 0; */
-    width: 100%;
-}
-
 .main_textP {
-    font-size: 110px;
-    color: #FFF;
-    font-weight: 400;
-}
-
-.CopyFooter {
-    color: white;
-    text-align: center;
-}
-
-.Footer {
-    background-color: #333333;
-    color: white;
-
-}
-
-.FooterCopy {
-    background-color: #212121;
-
-}
-
-.FooterPalabras {
-    color: #73a34b;
-}
-
-.Footer {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.Footer1 {
-    width: 25%;
-    text-align: center;
+	font-size: 110px;
+	color: #fff;
+	font-weight: 400;
 }
 
 /* --------------- MEDIA --------------- */
 @media screen and (max-width: 767px) {
-    .main_textP {
-        font-size: 40px;
-    }
+	.main_textP {
+		font-size: 40px;
+	}
 }
+
+/* David */
+.CopyFooter {
+	color: white;
+	text-align: center;
+}
+
+.Footer {
+	background-color: #333333;
+	color: white;
+}
+
+.FooterCopy {
+	background-color: #212121;
+}
+
+.FooterPalabras {
+	color: #73a34b;
+}
+
+.Footer {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.Footer1 {
+	width: 25%;
+	text-align: center;
+}
+
+/* Naomy */
+
+.div_Container {
+	position: relative;
+}
+.main_textDiv {
+	position: absolute;
+	top: 45%;
+	/* left: 0; */
+	width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+	.navbar .nav-link.active {
+		background-color: #a3e9a4;
+		border-radius: 5px;
+	}
+}
+/* Paola */
+
+/* Andres */

@@ -12,11 +12,11 @@ Se va a comenzar a consolidar una Web estatica que con el tiempo y el trabajo co
 
 **Los autor de este proyecto son:**
 
--  Naomy Restrepo
--  Paola Chaves
--  Kevin Hernandez
--  David Sierra
--  Andres Felipe Rangel
+- Naomy Restrepo
+- Paola Chaves
+- Kevin Hernandez
+- David Sierra
+- Andres Felipe Rangel
 
 **Estudiantes curso full stack con el especialista Javier Garzon**
 
