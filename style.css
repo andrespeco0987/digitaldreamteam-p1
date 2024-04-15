@@ -147,5 +147,34 @@
 }
 
 /* --------------- PAOLA --------------- */
+.header2 {
+	background-color: #94bb54;
+	text-align: center;
+  }
+  
+  .tel-correo {
+	color: white;
+	gap: 10px;
+  }
+  .redes {
+	color: white;
+	gap: 50px;
+	justify-content: right;
+  }
+  a {
+	text-decoration: none;
+	color: var(--mainWhite);
+	color: white;
+  }
+
+  @media screen and (max-width: 390px) {
+	.LogoHeader{
+		height: 70px;
+	}
+	.TituloHeader{
+		font-size: 16px;
+	}
+
+}
 
 /* --------------- ANDRES --------------- */
