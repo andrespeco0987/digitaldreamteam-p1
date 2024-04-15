@@ -129,6 +129,11 @@
     /* left: 0; */
     width: 100%;
 }
+.resaltado:hover {
+	background-color: #185A18; 
+	
+	/* Cambia este color al que desees */
+  }
 
 @media screen and (max-width: 767px) {
     .navbar .nav-link.active {
