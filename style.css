@@ -73,7 +73,7 @@
   }
 }
 /* Paola */
-header {
+/* header {
   background-color: #94bb54;
 }
 .container {
@@ -82,15 +82,8 @@ header {
 }
 .row {
   justify-content: left;
-}
+}*/
 .col-md-auto {
-  display: flex;
-  justify-content: center; /* Centra horizontalmente */
-  align-items: center; /* Centra verticalmente */
-  gap: 10px;
-  color: white;
-}
-.col {
   display: flex;
   justify-content: center; /* Centra horizontalmente */
   align-items: center; /* Centra verticalmente */
@@ -101,7 +94,9 @@ header {
 /* section header */
 .header2 {
   background-color: #94bb54;
+  text-align: center;
 }
+
 .tel-correo {
   color: white;
   gap: 10px;
@@ -115,5 +110,14 @@ a {
   text-decoration: none;
   color: var(--mainWhite);
   color: white;
+}
+
+@media screen and (max-width: 390px) {
+  .LogoHeader {
+    height: 70px;
+  }
+  .TituloHeader {
+    font-size: 16px;
+  }
 }
 /* Andres */
