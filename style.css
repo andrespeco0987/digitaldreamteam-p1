@@ -116,22 +116,27 @@
 }
 /* Naomy */
 
+.navbar{
+    background-color: #95BB55;
+}
+
 .div_Container {
-	position: relative;
+    position: relative;
 }
 .main_textDiv {
-	position: absolute;
-	top: 45%;
-	/* left: 0; */
-	width: 100%;
+    position: absolute;
+    top: 45%;
+    /* left: 0; */
+    width: 100%;
 }
 
 @media screen and (max-width: 767px) {
-	.navbar .nav-link.active {
-		background-color: #a3e9a4;
-		border-radius: 5px;
-	}
+    .navbar .nav-link.active {
+        background-color: #a3e9a4;
+        border-radius: 5px;
+    }
 }
+
 /* Paola */
 .header2 {
 	background-color: #94bb54;
