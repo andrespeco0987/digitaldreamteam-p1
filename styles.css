@@ -61,12 +61,12 @@
 }
 /* David */
 
-.Footer1{
+.Footer1 {
 	padding: 25px 0px;
 	background-color: #423f40;
 	color: white;
 }
-.Footer2{
+.Footer2 {
 	padding-top: 15px;
 	background-color: #212121;
 	color: white;
@@ -74,42 +74,42 @@
 .FooterPalabras {
 	color: #73a34b;
 }
-.copyR{
+.copyR {
 	font-size: 14px;
 }
-.LinkMas{
- 	text-decoration: none;
- 	color: white;
+.LinkMas {
+	text-decoration: none;
+	color: white;
 }
-.LinkMas:hover{
+.LinkMas:hover {
 	color: #73a34b;
-   }
-.tag{
+}
+.tag {
 	padding: 0px 15px;
 
-/* --------------- NAOMY --------------- */
+	/* --------------- NAOMY --------------- */
 	background-color: #212121;
 	text-decoration: none;
 	color: white;
 }
-.tag:hover{
+.tag:hover {
 	background-color: #73a34b;
 
 	color: white;
-	}
-.tag1{
+}
+.tag1 {
 	padding-top: 8px;
 }
 @media screen and (max-width: 990px) {
-	.copyR{
+	.copyR {
 		font-size: 12px;
 	}
-	.TituloFooter{
-		padding-top:20px;
+	.TituloFooter {
+		padding-top: 20px;
 	}
 }
 @media screen and (max-width: 540px) {
-	.copyR{
+	.copyR {
 		font-size: 8px;
 	}
 }
@@ -129,7 +129,6 @@
 /* --------------- MEDIA --------------- */
 
 @media screen and (max-width: 767px) {
-
 	/* --------------- KEVIN --------------- */
 	.video_section_h1 {
 		font-size: 70px;
