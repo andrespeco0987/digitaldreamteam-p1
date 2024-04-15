@@ -1,170 +1,178 @@
 /* --------------- KEVIN --------------- */
 :root {
-	--mainGreen: #9bbf5f;
-	--mainWhite: #fff;
-	--primary_Black: #000;
-	--primary_Gray: #565353;
+  --mainGreen: #9bbf5f;
+  --mainWhite: #fff;
+  --primary_Black: #000;
+  --primary_Gray: #565353;
 }
 
 * {
-	font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 /* video_section */
 
 .video_section {
-	position: relative;
-	height: 100vh;
-	overflow: hidden;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
 }
 
 .video_section_mp4 {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	min-width: 100%;
-	min-height: 100%;
-	width: auto;
-	height: auto;
-	transform: translateX(-35%) translateY(-50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translateX(-35%) translateY(-50%);
 }
 
 .video_section_cover {
-	background-color: var(--primary_Black);
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	opacity: 0.3;
-	z-index: 1;
+  background-color: var(--primary_Black);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.3;
+  z-index: 1;
 }
 
 .video_section_h1 {
-	font-size: 110px;
-	text-shadow: var(--primary_Gray) 1px 1px 10px;
+  font-size: 110px;
+  text-shadow: var(--primary_Gray) 1px 1px 10px;
 }
 
 .video_section_p {
-	font-size: 50px;
+  font-size: 50px;
 }
 
 .video_section_button {
-	font-size: 30px;
-	text-transform: uppercase;
+  font-size: 30px;
+  text-transform: uppercase;
 }
 
 /* --------------- MEDIA --------------- */
 @media screen and (max-width: 767px) {
-	.main_textP {
-		font-size: 40px;
-	}
+  .main_textP {
+    font-size: 40px;
+  }
 }
 
 /* David */
 
 .Footer1 {
-	padding: 25px 0px;
-	background-color: #423f40;
-	color: white;
+  padding: 25px 0px;
+  background-color: #423f40;
+  color: white;
 }
 .Footer2 {
-	padding-top: 15px;
-	background-color: #212121;
-	color: white;
+  padding-top: 15px;
+  background-color: #212121;
+  color: white;
 }
 .FooterPalabras {
-	color: #73a34b;
+  color: #73a34b;
 }
 .copyR {
-	font-size: 14px;
+  font-size: 14px;
 }
 .LinkMas {
-	text-decoration: none;
-	color: white;
+  text-decoration: none;
+  color: white;
 }
 .LinkMas:hover {
-	color: #73a34b;
+  color: #73a34b;
 }
 .tag {
-	padding: 0px 15px;
+  padding: 0px 15px;
 
-	background-color: #212121;
-	text-decoration: none;
-	color: white;
+  background-color: #212121;
+  text-decoration: none;
+  color: white;
 }
 .tag:hover {
-	background-color: #73a34b;
+  background-color: #73a34b;
 
-	color: white;
+  color: white;
 }
 .tag1 {
-	padding-top: 8px;
+  padding-top: 8px;
 }
 @media screen and (max-width: 990px) {
-	.copyR {
-		font-size: 12px;
-	}
-	.TituloFooter {
-		padding-top: 20px;
-	}
+  .copyR {
+    font-size: 12px;
+  }
+  .TituloFooter {
+    padding-top: 20px;
+  }
 }
 @media screen and (max-width: 540px) {
-	.copyR {
-		font-size: 8px;
-	}
+  .copyR {
+    font-size: 8px;
+  }
 }
 /* Naomy */
 
-.navbar{
-    background-color: #95BB55;
+.navbar {
+  background-color: #95bb55;
 }
 
 .div_Container {
-    position: relative;
+  position: relative;
 }
 .main_textDiv {
-    position: absolute;
-    top: 45%;
-    /* left: 0; */
-    width: 100%;
+  position: absolute;
+  top: 45%;
+  /* left: 0; */
+  width: 100%;
 }
 
 @media screen and (max-width: 767px) {
-    .navbar .nav-link.active {
-        background-color: #a3e9a4;
-        border-radius: 5px;
-    }
+  .navbar .nav-link.active {
+    background-color: #a3e9a4;
+    border-radius: 5px;
+  }
+}
+
+.col-md-auto {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+  gap: 10px;
+  color: white;
 }
 
 /* Paola */
 .header2 {
-	background-color: #94bb54;
-	text-align: center;
+  background-color: #94bb54;
+  text-align: center;
 }
 
 .tel-correo {
-	color: white;
-	gap: 10px;
+  color: white;
+  gap: 10px;
 }
 .redes {
-	color: white;
-	gap: 50px;
-	justify-content: right;
+  color: white;
+  gap: 50px;
+  justify-content: right;
 }
 a {
-	text-decoration: none;
-	color: var(--mainWhite);
-	color: white;
+  text-decoration: none;
+  color: var(--mainWhite);
+  color: white;
 }
 
 @media screen and (max-width: 390px) {
-	.LogoHeader {
-		height: 70px;
-	}
-	.TituloHeader {
-		font-size: 16px;
-	}
+  .LogoHeader {
+    height: 70px;
+  }
+  .TituloHeader {
+    font-size: 16px;
+  }
 }
 
 /* Andres */
