@@ -117,7 +117,7 @@
 /* Naomy */
 
 .navbar {
-	background-color: #95bb55;
+	background-color: #333333;
 }
 
 .div_Container {
@@ -130,9 +130,12 @@
 	width: 100%;
 }
 .resaltado:hover {
-	background-color: #185a18;
+	color: #185a18;
 
 	/* Cambia este color al que desees */
+}
+.resaltado {
+	color: #fff;
 }
 
 @media screen and (max-width: 767px) {
@@ -179,6 +182,9 @@ a {
 		font-size: 16px;
 	}
 }
+.iconohamburguesa {
+	background-color: white;
+}
 
 /* Andres */
 @media (max-width: 576px) {
@@ -209,7 +215,7 @@ body {
 	padding: 0;
 }
 
-h1 {
+.contacto {
 	text-align: center;
 	color: #333;
 }
