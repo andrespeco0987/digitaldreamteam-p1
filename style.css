@@ -54,10 +54,23 @@
 	text-transform: uppercase;
 }
 
+.video_section_button:hover {
+	background-color: var(--mainGreen);
+	color: var(--mainWhite);
+}
+
 /* --------------- MEDIA --------------- */
 @media screen and (max-width: 767px) {
-	.main_textP {
+	.video_section_h1 {
+		font-size: 50px;
+	}
+
+	.video_section_p {
 		font-size: 40px;
+	}
+
+	.video_section_button {
+		font-size: 25px;
 	}
 }
 
@@ -148,6 +161,7 @@
 
 	/* Cambia este color al que desees */
 }
+
 .resaltado {
 	color: #fff;
 }
@@ -201,6 +215,7 @@ a {
 		font-size: 16px;
 	}
 }
+
 .iconohamburguesa {
 	background-color: white;
 }
