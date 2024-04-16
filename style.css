@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* --------------- KEVIN --------------- */
 :root {
   --mainGreen: #9bbf5f;
@@ -181,3 +182,103 @@ a {
 }
 
 /* Andres */
+=======
+@media (max-width: 576px) {
+	.carousel-item img {
+		height: 250px;
+		width: 100%;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 1024px) {
+	.carousel-item img {
+		height: 350px;
+	}
+}
+
+@media (min-width: 1024px) {
+	.carousel-item img {
+		max-width: 100%;
+		height: 550px;
+		max-height: 600px;
+	}
+}
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f9f9f9;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	color: #333;
+}
+
+form {
+	max-width: 600px;
+	padding: 20px;
+	margin-left: 30%;
+	background-color: #fff;
+	border-radius: 8px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+	display: block;
+	margin-bottom: 8px;
+	color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+	width: 100%;
+	padding: 8px;
+	margin-bottom: 16px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+textarea {
+	resize: vertical;
+}
+
+input[type="submit"] {
+	background-color: #4caf50;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+input[type="submit"]:hover {
+	background-color: #45a049;
+}
+
+input[type="submit"]:focus {
+	outline: none;
+}
+
+@keyframes slideIn {
+	from {
+		opacity: 0;
+		transform: translateY(50px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/* Aplicar animación a las imágenes */
+.animate-slide {
+	animation: slideIn 0.8s ease-out;
+}
+>>>>>>> andres-rangel
